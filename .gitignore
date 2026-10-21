@@ -1,0 +1,18 @@
+# 模型权重
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+models/
+checkpoints/
+
+# 输出与缓存
+output/
+temp/
+input/
+*.log
+
+# 系统
+.DS_Store
+Thumbs.db
